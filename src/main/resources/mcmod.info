@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "pressltoshoutgui",
+        "name": "PressLToShoutGui",
+        "description": "Add a command and a setting gui to PressLToShout.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/ZekerZhayard/PressLToShoutGui",
+        "updateUrl": "https://raw.githubusercontent.com/ZekerZhayard/PressLToShoutGui/master/update.json",
+        "authorList": [
+            "ZekerZhayard"
+        ],
+        "credits": "GPLv3",
+        "dependencies": [
+            "required-after:pressltoshout;"
+        ]
+    }
+]
